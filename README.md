@@ -2,8 +2,9 @@
 
 ## Cognitive Routing & RAG System
 
+This project implements the core AI cognitive loop for the Grid07 platform.
 
-This demonstrates practical AI engineering concepts including:
+The assignment demonstrates practical AI engineering concepts including:
 
 * Vector-based semantic routing
 * Retrieval-Augmented Generation (RAG)
@@ -506,8 +507,10 @@ This project demonstrates practical AI engineering workflows including:
 * Prompt security
 * Structured LLM interactions
 
+The implementation focuses on scalable architecture, modularity, and production-oriented AI design principles.
 
-#Author
+---
+
+# Author
 
 Mukul Anand
-The implementation focuses on scalable architecture, modularity, and production-oriented AI design principles.
